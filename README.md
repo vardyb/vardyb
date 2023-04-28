@@ -9,5 +9,7 @@ I’m currently working with
 - Alpine JS
 - Vue JS
 - Swift
+- Python
+- Ruby
 
 You can reach me by clicking in the 'Contact Me' button on http://challengelogic.net
