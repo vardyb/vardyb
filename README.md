@@ -8,6 +8,7 @@ I’m currently working with
 - Tailwind CSS
 - Alpine JS
 - Vue JS
+- Golang
 - Swift
 - Python
 - Ruby
