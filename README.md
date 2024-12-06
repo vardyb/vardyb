@@ -8,9 +8,11 @@ I’m currently working with
 - Tailwind CSS
 - Alpine JS
 - Vue JS
+- Inertia JS
 - Golang
 - Swift
 - Python
 - Ruby
+- PHP
 
 You can reach me by clicking in the 'Contact Me' button on http://challengelogic.net
