@@ -1,6 +1,6 @@
 Hi, I’m Brent Vardy [ @vardyb ] founder of [Code and Sea](https://codeandsea.com).
 
-I’m interested in Web and Native Application development.
+I’m a Solo Founder / Indie Hacker interested in Web and Native (iOS, iPadOS, macOS and watchOS) Application development.
 
 I’m currently working with 
 - Laravel
