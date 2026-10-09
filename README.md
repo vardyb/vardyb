@@ -17,3 +17,13 @@ I’m currently working with
 You can reach me on [codeandsea.com](https://codenadsea.com/contact)
 
 [![Find me on founder.page](https://founder.page/badge/codeandsea.svg?style=portrait&theme=light)](https://founder.page/codeandsea)
+
+---
+
+## Latest projects
+
+### Mantra Meditation Timer (iOS)
+
+MANTRATimer is a minimalist, privacy-first meditation timer specifically designed for practitioners of mantra-based meditation techniques on iOS. 
+
+Find out more here: [mantratimer.app](https://mantratimer.app)
