@@ -1,18 +1,19 @@
-Hi, I’m Brent Vardy [ @vardyb ]
+Hi, I’m Brent Vardy [ @vardyb ] founder of [Code and Sea](https://codeandsea.com).
 
 I’m interested in Web and Native Application development.
 
 I’m currently working with 
 - Laravel
-- Livewire
+- Laravel Livewire
 - Tailwind CSS
 - Alpine JS
 - Vue JS
-- Inertia JS
-- Golang
 - Swift
+- Swift UI
+- Swift Data
 - Python
-- Ruby
 - PHP
 
-You can reach me by clicking in the 'Contact Me' button on http://challengelogic.net
+You can reach me on [codeandsea.com](https://codenadsea.com/contact)
+
+[![Find me on founder.page](https://founder.page/badge/codeandsea.svg?style=portrait&theme=light)](https://founder.page/codeandsea)
